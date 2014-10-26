@@ -1,5 +1,4 @@
 var http = require('http')
-var buf = require('buffer')
 
 var str = ''
 
